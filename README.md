@@ -31,7 +31,7 @@ The dataset that we used was the original contained on the folder, the **acciden
 
 For better clarification, see the image below:
 
-![](./Ironhack/Week3/Project-Week-3-Song-Recommender/images/workflow.png)
+![workflow image](./images/workflow.png)
 
 ## Organization
 
