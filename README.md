@@ -31,7 +31,7 @@ The dataset that we used was the original contained on the folder, the **acciden
 
 For better clarification, see the image below:
 
-![](workflow.png)
+![workflow image](./images/workflow.png)
 
 ## Organization
 
